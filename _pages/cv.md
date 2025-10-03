@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Lola Castrillon> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [lgc63@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +914 462 9080
 
 ---
 
@@ -22,9 +22,9 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.8/4.0 | Graduation: Month, Year
 
-- **[High School Name]**  
+- **Ossining High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 

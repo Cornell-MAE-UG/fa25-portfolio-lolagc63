@@ -42,7 +42,7 @@ This entry documents a simple single-link design that hits 50.0 cm tip height an
 |---|---:|:---|
 | Envelope | — | 150 cm × 50 cm |
 | Bar length | \(L\) | 1.00 m |
-| Tip height target | \(y_{\text{tip}}\) | 0.50 m |
+| Tip height target | \(y_tip\) | 0.50 m |
 | Actuator peak thrust | \(F_a\) | 35.81 kN = 35,810 N (IMA55 RNO5) |
 | Max actuator stroke | — | 457 mm |
 | Actuator base | \(G_2\) | (0.90 m, 0) |

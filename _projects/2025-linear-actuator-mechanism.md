@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Single-Link Lifting Mechanism - Portfolio
+title: Linear Actuator Design
 class: ENGRD 2020, Fall 2025
 image: /assets/images/linear_act.png
 ---

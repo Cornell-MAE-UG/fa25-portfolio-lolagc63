@@ -47,3 +47,22 @@ This entry documents a simple single-link design that hits 50.0 cm tip height an
 | Actuator attach point | \(a\) | 0.85 m |
 
 ---
+
+## Geometry at top position (tip = 0.50 m)
+
+Bar angle:
+\[
+L\sin\theta = 0.50 \Rightarrow \theta = \arcsin(0.50/1.00) = 30^\circ
+\]
+
+Coordinates:
+- Tip = \((L\cos\theta,\,L\sin\theta) = (0.866,\,0.500)\,\text{m}\)  
+- \(P = (a\cos\theta,\,a\sin\theta) = (0.737,\,0.425)\,\text{m}\)
+
+Actuator length:
+\[
+|G_2P| = \sqrt{(0.90 - 0.737)^2 + (0 - 0.425)^2} \approx 0.456\ \text{m} = 456\ \text{mm}
+\]
+This check out because it is within the 457 mm stroke limit.
+
+---

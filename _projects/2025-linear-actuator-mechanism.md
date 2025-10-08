@@ -3,7 +3,7 @@ layout: project
 title: Linear Actuator Design
 description: ENGRD 2020 Assignment 5, Fall 2025
 technologies: [Google Sheets]
-image: /assets/images/linear_act.png
+image: /assets/images/fbd_lin_act.jpeg
 ---
 
 > **Project goal:** design a 2D lifting mechanism (inside a 150 cm × 50 cm envelope) that reaches the highest tip height (50.0 cm), and for that height maximize static lift using the actuator's peak thrust.
@@ -45,6 +45,6 @@ I interpret this as the following objectives:
 
 Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar inside 150 cm horizontally and allows it to reach a 50 cm vertical at a reasonable angle (calculated in next part). It is also important to note that the attatch point (a) is 0.85 m because it is within the max stroke (also calculated in next section).
 
-![Free Body Diagram](fbd.jpeg)
+![Free Body Diagram](../assets/images/fbd_lin_act.jpeg)
 *A general schematic showing key geometry variables.*
 

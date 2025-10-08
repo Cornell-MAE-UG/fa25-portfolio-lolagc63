@@ -6,8 +6,6 @@ technologies: [Google Sheets]
 image: /assets/images/linear_act.png
 ---
 
-# Single-Link Lifting Mechanism — Portfolio Entry
-
 > **Project goal:** design a 2D lifting mechanism (inside a 150 cm × 50 cm envelope) that reaches the highest tip height (50.0 cm), and for that height maximize static lift using the actuator's peak thrust.
 
 ---

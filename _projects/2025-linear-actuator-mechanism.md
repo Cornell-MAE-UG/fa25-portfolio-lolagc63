@@ -32,16 +32,16 @@ I interpret this as the following objectives:
 
 ---
 
-## Design parameters (initial case)
+## Design Parameters (initial case)
 
-Envelope: 150 cm x 150 cm (given)
-Bar Length (L): 1.00 m
-Tip Height Target (y_tip): 0.50 m
-Actuator: IMA55 RN05
-Actuator Peak Thrust (F_a): 35.81 kN
-Actuator Max Stroke: 457 mm
-Actuator Base (G_2): (0.90 m, 0.00 m)
-Actuator Attatch Point (a): 0.85 m
+- Envelope: 150 cm x 150 cm (given)
+- Bar Length (L): 1.00 m
+- Tip Height Target (y_tip): 0.50 m
+- Actuator: IMA55 RN05
+- Actuator Peak Thrust (F_a): 35.81 kN
+- Actuator Max Stroke: 457 mm
+- Actuator Base (G_2): (0.90 m, 0.00 m)
+- Actuator Attatch Point (a): 0.85 m
 
 Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar inside 150 cm horizontally and allows it to reach a 50 cm vertical at a reasonable angle (calculated in next part). It is also important to note that the attatch point (a) is 0.85 m because it is within the max stroke (also calculated in next section).
 

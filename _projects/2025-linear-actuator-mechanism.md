@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Linear Actuator Design
-class: ENGRD 2020, Fall 2025
+description: ENGRD 2020 Assignment 5, Fall 2025
+technologies: [Google Sheets]
 image: /assets/images/linear_act.png
 ---

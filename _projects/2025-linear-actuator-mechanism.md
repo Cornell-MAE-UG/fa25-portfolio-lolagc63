@@ -45,5 +45,6 @@ I interpret this as the following objectives:
 
 Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar inside 150 cm horizontally and allows it to reach a 50 cm vertical at a reasonable angle (calculated in next part). It is also important to note that the attatch point (a) is 0.85 m because it is within the max stroke (also calculated in next section).
 
-![Free Body Diagram](fbd.png)
+<img src="projects/fbd.png" width="500" />
 *A general schematic showing key geometry variables.*
+

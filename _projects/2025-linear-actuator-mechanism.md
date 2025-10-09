@@ -72,3 +72,18 @@ Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar
 **W = 34,762 N = 3,544 kg**
 
 ---
+
+## Additional Case (L = 1.20 m)
+
+To explore geometric effects, I evaluated a second configuration keeping the 150 cm × 50 cm envelope and 457 mm stroke limit. 
+
+- L = 1.20 m
+- θ = 24 degrees
+- G_2 = (1.00, 0.00)
+- a = 1.00 m
+- Actuator Length = 420 mm
+- d_perpendicular = 0.968 m
+- W = 31, 626 N
+- M = 3,224 kg
+
+---

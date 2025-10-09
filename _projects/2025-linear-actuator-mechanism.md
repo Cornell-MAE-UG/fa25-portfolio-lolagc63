@@ -58,20 +58,20 @@ Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar
 
 ### Bar angle
 
-\[
-L\sin\theta = 0.50 \quad\Rightarrow\quad \theta = \arcsin\!\left(\frac{0.50}{1.00}\right) = 30^\circ
-\]
+<script type="math/tex; mode=display">
+L\sin\theta = 0.50 \quad\Rightarrow\quad \theta = \arcsin\left(\frac{0.50}{1.00}\right) = 30^\circ
+</script>
 
 ### Coordinates
 
-- Tip: \(\;(L\cos\theta,\;L\sin\theta) = (0.866,\;0.500)\ \mathrm{m}\)
-- Actuator pin \(P\): \(\;(a\cos\theta,\;a\sin\theta) = (0.736,\;0.425)\ \mathrm{m}\)
+- Tip: <script type="math/tex">(L\cos\theta,\;L\sin\theta) = (0.866,\;0.500)\ \mathrm{m}</script>
+- Actuator pin <script type="math/tex">P</script>: <script type="math/tex">(a\cos\theta,\;a\sin\theta) = (0.736,\;0.425)\ \mathrm{m}</script>
 
 ### Actuator length
 
-\[
+<script type="math/tex; mode=display">
 |G_2P| = \sqrt{(0.90 - 0.736)^2 + (0 - 0.425)^2} \approx 0.456\ \mathrm{m} = 456\ \mathrm{mm}
-\]
+</script>
 
 This is within the 457 mm stroke limit.
 

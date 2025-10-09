@@ -36,7 +36,7 @@ I interpret this as the following objectives:
 
 ## Free-Body Diagram
 
-<img src="{{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}" alt="Free body diagram" class="inline-image-l" />
+![Free body diagram](/fa25-portfolio-lolagc63/assets/images/fbd_lin_act.jpeg){: .inline-image-l}
 
 ---
 

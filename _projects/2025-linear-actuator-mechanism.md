@@ -69,4 +69,6 @@ Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar
 
 [Download my Calculations]({{ "/assets/max_weight.pdf" | relative_url }}) in PDF format.
 
+**W = 34,762 N = 3,544 kg**
+
 ---

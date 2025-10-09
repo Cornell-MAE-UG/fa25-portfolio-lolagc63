@@ -11,6 +11,7 @@ image: /assets/images/linear_act.png
 
 ---
 
+
 ## Objective
 The assignment mixes two goals:
 
@@ -38,7 +39,9 @@ I interpret this as the following objectives:
 
 ![Free body diagram](/fa25-portfolio-lolagc63/assets/images/fbd_lin_act.jpeg){: .inline-image-l}
 
+
 ---
+
 
 ## Design Parameters (initial case)
 

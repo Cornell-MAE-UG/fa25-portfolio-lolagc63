@@ -56,11 +56,15 @@ Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar
 
 ## Geometry at top position (tip = 0.50 m)
 
-- **Bar Angle**: We know that Lsinθ is 0.50 m therefore **θ = 30 degrees**
-- **Coordinates**: We know that T = (Lcosθ, Lsinθ) = **(0.8660m, 0.500m)**
-- **Actuator-bar attachment P**: We know that P = (acosθ, asinθ) = **(0.737m, 0.425m)**
-- **Actuator length**: 0.456m = **4556mm** - this is within the 457mm stroke limit
+- **Bar Angle**: We know that Lsinθ is 0.50 m therefore θ = 30 degrees
+- **Coordinates**: We know that T = (Lcosθ, Lsinθ) = (0.8660m, 0.500m)
+- **Actuator-bar attachment P**: We know that P = (acosθ, asinθ) = (0.737m, 0.425m)
+- **Actuator length**: 0.456m = 4556mm - this is within the 457mm stroke limit
 
 ---
 
 ## Maximum Weight Calculation
+
+**Idea**: At static equilibrium the actuator must provide a moment about the pivot that balances the moment due to the vertical weight at the tip
+
+---

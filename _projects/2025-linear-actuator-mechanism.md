@@ -3,13 +3,12 @@ layout: project
 title: Linear Actuator Design
 description: ENGRD 2020 Assignment 5, Fall 2025
 technologies: [Google Sheets]
-image: /assets/images/fbd_lin_act.jpeg
+image: /assets/images/linear_act.png
 ---
 
  **Project goal:** 
  Design a 2D lifting mechanism (inside a 150 cm × 50 cm envelope) that reaches the highest tip height (50.0 cm), and for that height maximize static lift using the actuator's peak thrust.
 
----
 
 ## Objective
 The assignment mixes two goals:
@@ -21,9 +20,9 @@ I interpret this as the following objectives:
 - **Primary:** Reach the maximum allowable tip height within the 50.0 cm vertical envelope.  
 - **Secondary:** For that configuration, maximize the static weight that can be lifted/held using the actuator’s **peak** thrust.
 
----
 
 ## Mechanism choice (2D single-bar linkage)
+![Free body diagram showing a single-bar linear actuator mechanism with labeled pins and dimensions. The diagram includes a horizontal ground line, a pivot at the left end, an actuator attached between the ground and the bar, and a vertical load applied at the bar tip. The environment is a schematic engineering drawing with clear geometric annotations. All text in the image is transcribed in the caption or surrounding content. The tone is technical and instructional. ]({{ "/assets/images/fbd_lin_act.jpg" | relative_url }}){: .inline-image-l}
 
 - **Pivot (Pin 1):** \(G_1=(0,0)\) (ground).  
 - **Actuator ground pin (Pin 2):** \(G_2=(0.90,0)\).  
@@ -32,7 +31,6 @@ I interpret this as the following objectives:
 - **Load:** vertical point load \(W\) at the bar tip.
 
 ---
-
 ## Design Parameters (initial case)
 
 - Envelope: 150 cm x 150 cm (given)
@@ -45,7 +43,3 @@ I interpret this as the following objectives:
 - Actuator Attatch Point (a): 0.85 m
 
 Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar inside 150 cm horizontally and allows it to reach a 50 cm vertical at a reasonable angle (calculated in next part). It is also important to note that the attatch point (a) is 0.85 m because it is within the max stroke (also calculated in next section).
-
-![Free Body Diagram](../assets/images/fbd_lin_act.jpeg)
-*A general schematic showing key geometry variables.*
-

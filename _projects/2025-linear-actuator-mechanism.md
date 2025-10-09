@@ -22,7 +22,7 @@ I interpret this as the following objectives:
 
 
 ## Mechanism choice (2D single-bar linkage)
-![Free body diagram showing a single-bar linear actuator mechanism with labeled pins and dimensions. The diagram includes a horizontal ground line, a pivot at the left end, an actuator attached between the ground and the bar, and a vertical load applied at the bar tip. The environment is a schematic engineering drawing with clear geometric annotations. All text in the image is transcribed in the caption or surrounding content. The tone is technical and instructional. ]({{ "/assets/images/fbd_lin_act.jpg" | relative_url }}){: .inline-image-l}
+![Free body diagram]({{ "/assets/images/fbd_lin_act.jpg" | relative_url }}){: .inline-image-l}
 
 - **Pivot (Pin 1):** \(G_1=(0,0)\) (ground).  
 - **Actuator ground pin (Pin 2):** \(G_2=(0.90,0)\).  

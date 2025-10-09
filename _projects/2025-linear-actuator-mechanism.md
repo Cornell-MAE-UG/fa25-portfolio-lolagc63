@@ -36,7 +36,7 @@ I interpret this as the following objectives:
 
 ## Free-Body Diagram
 
-![Free body diagram](/fa25-portfolio-lolagc63/assets/images/fbd_lin_act.jpeg)
+![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
 
 
 ---

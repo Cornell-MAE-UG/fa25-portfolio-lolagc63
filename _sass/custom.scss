@@ -131,7 +131,7 @@ footer {
   display: block;
   clear: both; /* ensure it sits below floats */
   margin: 1rem auto; /* center horizontally */
-  max-width: 480px; /* cap width on larger screens to prevent oversized images */
+  max-width: 320px; /* cap width on larger screens to keep image small */
   width: auto; /* don't stretch to full container on wide screens */
   height: auto;
   float: none !important; /* override any float rules */

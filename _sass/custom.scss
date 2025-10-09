@@ -131,10 +131,20 @@ footer {
   display: block;
   clear: both; /* ensure it sits below floats */
   margin: 1rem auto; /* center horizontally */
-  max-width: 700px;
-  width: 100%;
+  max-width: 480px; /* cap width on larger screens to prevent oversized images */
+  width: auto; /* don't stretch to full container on wide screens */
   height: auto;
   float: none !important; /* override any float rules */
+}
+
+/* On small screens use full-width but respect max-width */
+@media (max-width: 600px) {
+  .block-image {
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
 }
 
 .profile-image, .project-image {

@@ -21,8 +21,13 @@ I interpret this as the following objectives:
 - **Secondary:** For that configuration, maximize the static weight that can be lifted/held using the actuator’s **peak** thrust.
 
 
+---
+
 ## Mechanism choice (2D single-bar linkage)
-![Free body diagram]({{ "/assets/images/fbd_lin_act.jpg" | relative_url }}){: .inline-image-l}
+
+
+![Free body diagram]({{ "/assets/images/fbd_lin_act.jpeg" | relative_url }}){: .inline-image-l}
+
 
 - **Pivot (Pin 1):** \(G_1=(0,0)\) (ground).  
 - **Actuator ground pin (Pin 2):** \(G_2=(0.90,0)\).  

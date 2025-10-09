@@ -83,7 +83,9 @@ To explore geometric effects, I evaluated a second configuration keeping the 150
 - a = 1.00 m
 - Actuator Length = 420 mm
 - d_perpendicular = 0.968 m
-- W = 31, 626 N
-- M = 3,224 kg
+- **W = 31, 626 N**
+- **M = 3,224 kg**
 
 ---
+
+## Trends

@@ -9,7 +9,6 @@ image: /assets/images/linear_act.png
  **Project goal:** 
  Design a 2D lifting mechanism (inside a 150 cm × 50 cm envelope) that reaches the highest tip height (50.0 cm), and for that height maximize static lift using the actuator's peak thrust.
 
----
 
 
 ## Objective
@@ -37,7 +36,7 @@ I interpret this as the following objectives:
 
 ## Free-Body Diagram
 
-![Free body diagram](/fa25-portfolio-lolagc63/assets/images/fbd_lin_act.jpeg){: .inline-image-l}
+![Free body diagram](/fa25-portfolio-lolagc63/assets/images/fbd_lin_act.jpeg)
 
 
 ---

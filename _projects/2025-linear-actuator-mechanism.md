@@ -65,6 +65,8 @@ Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar
 
 ## Maximum Weight Calculation
 
-**Idea**: At static equilibrium the actuator must provide a moment about the pivot that balances the moment due to the vertical weight at the tip
+**Idea**: At static equilibrium the actuator must provide a moment about the pivot that balances the moment due to the vertical weight at the tip.
+
+[Download my Calculations]({{ "/assets/max_weight.pdf" | relative_url }}) in PDF format.
 
 ---

@@ -110,7 +110,7 @@ To explore geometric effects, I evaluated a second configuration keeping the 150
 ---
 
 ### Notes / practical considerations
-- Numbers above use **peak thrust**. For sustained designs use continuous thrust (~12.23 kN) and safety factors.  
+- Numbers above use **peak thrust**. For sustained designs use continuous thrust (~12.23 kN)
 - A brake or lock is required to prevent back-drive in vertical applications (Tolomatic note).  
 
 ---

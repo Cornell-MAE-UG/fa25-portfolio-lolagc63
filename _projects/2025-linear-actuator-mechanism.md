@@ -92,11 +92,19 @@ To explore geometric effects, I evaluated a second configuration keeping the 150
 
 | Case | L (m) | G₂ (m) | a (m) | Stroke (mm) | d⊥ (m) | W (N) | m (kg) | Feasible? |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 1.00 | 0.90 | 0.85 | 456 | 0.84 | 34,760 | 3,544 | ✅ |
-| 2 | **1.20** | **1.00** | **1.00** | **420** | **0.97** | **31,630** | **3,224** | ✅ |
-| 3 | 1.20 | 0.80 | 1.00 | 398 | 0.88 | 28,600 | 2,917 | ✅ |
-| 4 | 1.20 | 1.20 | 1.00 | 458 | 1.01 | 32,800 | 3,345 | ⚠️ just over |
-| 5 | 1.20 | 1.00 | 0.80 | 374 | 0.81 | 26,300 | 2,682 | ✅ |
-| 6 | 1.20 | 1.00 | 1.20 | 465 | 1.04 | 33,800 | 3,446 | ⚠️ over |
+| 1 | 1.00 | 0.90 | 0.85 | 456 | 0.84 | 34,760 | 3,544 | yes |
+| 2 | **1.20** | **1.00** | **1.00** | **420** | **0.97** | **31,630** | **3,224** | yes |
+| 3 | 1.20 | 0.80 | 1.00 | 398 | 0.88 | 28,600 | 2,917 | yes |
+| 4 | 1.20 | 1.20 | 1.00 | 458 | 1.01 | 32,800 | 3,345 | no, just over |
+| 5 | 1.20 | 1.00 | 0.80 | 374 | 0.81 | 26,300 | 2,682 | yes |
+| 6 | 1.20 | 1.00 | 1.20 | 465 | 1.04 | 33,800 | 3,446 | no, over |
+
+---
+
+## Conclusions
+- Both \(L=1.00\) m and \(L=1.20\) m designs can meet stroke and envelope limits; the 1.20 m bar increases reach while slightly reducing capacity.  
+- Increasing \(G_2\) increases leverage and \(W\), but risks exceeding stroke.  
+- Decreasing \(a\) increases mechanical advantage but reduces vertical range.  
+- **Balanced recommendation:** \(L=1.20\ \text{m},\ G_2=(1.00,0),\ a=1.00\) — feasible and clear reasoning.
 
 ---

@@ -9,7 +9,7 @@ image: /assets/images/linear_act.png
  **Project goal:** 
  Design a 2D lifting mechanism (inside a 150 cm × 50 cm envelope) that reaches the highest tip height (50.0 cm), and for that height maximize static lift using the actuator's peak thrust.
 
-
+ ---
 
 ## Objective
 The assignment mixes two goals:
@@ -20,7 +20,6 @@ I interpret this as the following objectives:
 
 - **Primary:** Reach the maximum allowable tip height within the 50.0 cm vertical envelope.  
 - **Secondary:** For that configuration, maximize the static weight that can be lifted/held using the actuator’s **peak** thrust.
-
 
 ---
 
@@ -38,9 +37,7 @@ I interpret this as the following objectives:
 
 ![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
 
-
 ---
-
 
 ## Design Parameters (initial case)
 
@@ -54,6 +51,5 @@ I interpret this as the following objectives:
 - Actuator Attatch Point (a): 0.85 m
 
 Note: The bar length was chosen to be 1.00 m because it keeps the tip of the bar inside 150 cm horizontally and allows it to reach a 50 cm vertical at a reasonable angle (calculated in next part). It is also important to note that the attatch point (a) is 0.85 m because it is within the max stroke (also calculated in next section).
-
 
 ---

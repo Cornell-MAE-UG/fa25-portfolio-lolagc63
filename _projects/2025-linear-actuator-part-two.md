@@ -30,6 +30,7 @@ image: /assets/images/linear_act.png
 
 - Allowable tip vertical deflection: 2% of L (0.02 L).
 
+
 ## Preliminary geometry / kinematics
 
 - Compute beam angle at top position: θ = arcsin(y_tip/L) = arcsin(0.50/1.20) = 0.4297754213 rad = 24.624 degrees
@@ -38,6 +39,8 @@ image: /assets/images/linear_act.png
     - Actuator-to-beam(attatchment)P = (acosθ, asinθ) with a = 1.00m
     - with a = 1.00: P≈(0.90905934 m,0.41666667 m)
 - Actuator ground point used: G2 = (1.00, 0)m
+
+## Compute actuator transverse component at P (vector method)
 
 
 

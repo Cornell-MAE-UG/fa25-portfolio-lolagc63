@@ -52,7 +52,7 @@ image: /assets/images/linear_act.png
 
 You can view the full calculation (PDF) here:
 
-
+[Download my Calculations]({{ "/assets/Compute Actuator Transverse Component at P (Vector method) ~ Calculations_.pdf.pdf" | relative_url }}) in PDF format.
 
 ![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
 

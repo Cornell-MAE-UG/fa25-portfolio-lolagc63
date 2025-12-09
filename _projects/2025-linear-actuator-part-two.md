@@ -6,9 +6,30 @@ technologies: [Google Sheets]
 image: /assets/images/linear_act.png
 ---
 
-This is part two of the Linear Actuator design project. It continues the analysis and documents additional checks and notes.
+## Overview / assumptions
 
-## Free-Body Diagram
+**Geometry (selected configuration)**
+
+- Bar length: L = 1.20 m
+- Tip height: y_tip = 0.50 m
+
+**Modeling assumptions**
+
+- Beam modeled as an Euler–Bernoulli beam (small-deflection, linear theory).
+- Boundary condition: cantilever (fixed) at the pivot. The pivot hub is assumed stiff enough to provide rotational restraint (conservative assumption for deflection).
+
+**Loads included (transverse components only)**
+
+- Tip vertical load: W = 31,630 N (value from actuator equilibrium calculation).
+- Actuator peak thrust: F_a = 35,810 N. For bending we include only the component of this thrust perpendicular to the beam at the actuator attachment point P.
+
+**Material & properties**
+
+- Steel: E = 200 GPa, ρ = 7850 kg/m³.
+
+**Serviceability limit**
+
+- Allowable tip vertical deflection: 2% of L (0.02 L).
 
 ![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
 

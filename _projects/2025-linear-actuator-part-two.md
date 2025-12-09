@@ -29,10 +29,23 @@ image: /assets/images/linear_act.png
 **Serviceability limit**
 
 - Allowable tip vertical deflection: 2% of L (0.02 L).
+## Preliminary geometry / kinematics
 
-### Preliminary geometry / kinematics
+Compute beam angle at the top position (tip = 0.50 m):
 
-(Add geometry sketches, notation, and kinematic relationships here.)
+{% raw %}
+<script type="math/tex; mode=display">
+	heta = \arcsin\left(\frac{y_{\mathrm{tip}}}{L}\right) = \arcsin\left(\frac{0.50}{1.20}\right) = 0.4297754313\ \mathrm{rad} = 24.624^{\circ}
+</script>
+{% endraw %}
+
+Coordinates:
+
+- Tip \(T\): {% raw %}<script type="math/tex">(L\cos\theta,\;L\sin\theta) = (1.2\cos\theta,\;1.2\sin\theta) \approx (1.09087121\ \mathrm{m},\;0.50000000\ \mathrm{m})</script>{% endraw %}
+- Actuator-to-beam pin (attachment) \(P\) with \(a = 1.00\ \mathrm{m}\):
+	- {% raw %}<script type="math/tex">P=(a\cos\theta,\;a\sin\theta)\approx(0.90905934\ \mathrm{m},\;0.41666667\ \mathrm{m})</script>{% endraw %}
+
+Actuator ground point used: {% raw %}<script type="math/tex">G_2=(1.00,\;0)\ \mathrm{m}</script>{% endraw %}
 
 ![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
 

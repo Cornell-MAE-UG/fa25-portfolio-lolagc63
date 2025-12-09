@@ -29,6 +29,7 @@ image: /assets/images/linear_act.png
 **Serviceability limit**
 
 - Allowable tip vertical deflection: 2% of L (0.02 L).
+
 ## Preliminary geometry / kinematics
 
 Compute beam angle at the top position (tip = 0.50 m):

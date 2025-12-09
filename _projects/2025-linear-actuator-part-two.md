@@ -42,7 +42,7 @@ image: /assets/images/linear_act.png
 
 ## Compute actuator transverse component at P (vector method)
 
-[Download my Calculations]({{ "/assets/Compute Actuator Transverse Component at P (Vector method) ~ Calculations:.pdf" | relative_url }}) in PDF format.
+
 
 
 

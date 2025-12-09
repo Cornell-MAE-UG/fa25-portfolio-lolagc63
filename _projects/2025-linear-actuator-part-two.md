@@ -48,6 +48,20 @@ image: /assets/images/linear_act.png
 
 ![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
 
+## compute actuator component at P (vector method)
+
+You can view the full calculation (PDF) here:
+
+<a href="{{ '/assets/Compute Actuator Transverse Component at P (Vector method) ~ Calculations_.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Compute Actuator Transverse Component at P (Vector method) — Calculations (PDF)</a>
+
+If you prefer the PDF embedded on the page, you can uncomment the block below to embed it (note: some browsers may block embedded PDFs):
+
+<!--
+<div style="margin: 1rem 0;">
+    <iframe src="{{ '/assets/Compute Actuator Transverse Component at P (Vector method) ~ Calculations_.pdf' | relative_url }}" style="width:100%;height:600px;border:1px solid #ddd;" title="Actuator calculation PDF"></iframe>
+</div>
+-->
+
 ## Summary
 
 Add any additional notes, calculations, or results here. You can copy portions from the original project and adapt them as needed.

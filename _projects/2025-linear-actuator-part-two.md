@@ -7,7 +7,6 @@ image: /assets/images/linear_act.png
 ---
 
 ## Overview / assumptions
-
 **Geometry (selected configuration)**
 
 - Bar length: L = 1.20 m
@@ -30,6 +29,10 @@ image: /assets/images/linear_act.png
 **Serviceability limit**
 
 - Allowable tip vertical deflection: 2% of L (0.02 L).
+
+### Preliminary geometry / kinematics
+
+(Add geometry sketches, notation, and kinematic relationships here.)
 
 ![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
 

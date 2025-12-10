@@ -50,7 +50,7 @@ Model: beam (fixed at x = 0), with
 
 You can view the detailed calculation (PDF) here:
 
-<a href="{{ '/assets/Maximum Deflection Calculations.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Compute Actuator Transverse Component at P (Vector method) — Calculations (PDF)</a>
+<a href="{{ '/assets/Maximum Deflection Calculations.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Maximum Deflection Calculations(PDF)</a>
 
 ---
 
@@ -67,7 +67,7 @@ You can view the detailed calculation (PDF) here:
 
 **Section properties Calculations:**
 
-<a href="{{ '/assets/Section properties Calculations.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Compute Actuator Transverse Component at P (Vector method) — Calculations (PDF)</a>
+<a href="{{ '/assets/Section properties Calculations.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Section properties Calculations (PDF)</a>
 
 ---
 

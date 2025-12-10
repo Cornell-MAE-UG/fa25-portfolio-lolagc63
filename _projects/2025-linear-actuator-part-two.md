@@ -54,6 +54,22 @@ You can view the detailed calculation (PDF) here:
 
 ---
 
+## Choosing a beam cross-section
+Design Stretegy:
+- For bending stiffness per unit mass, thin-walled large-diameter hollow sections are efficient (large I for small area).
+- Choose a realistic manufacturable wall thickness (avoid <1 mm unless composite). I used t = 2.0 mm (practical steel tube) and selected the minimum outer diameter D that satisfies I ≥ I_req and fits envelope constraints. 
+
+Selected Section:
+- Hollow circular steel tube
+    - Outer diameter D = 0.209 m = 209 mm
+    - Wall thickness t = 0.002 m = 2.0 mm
+
+Section properties Calculations:
+
+---
+
+
+
 
 
 

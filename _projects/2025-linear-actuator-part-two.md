@@ -45,6 +45,20 @@ You can view the detailed calculation (PDF) here:
     <iframe src="{{ '/assets/Compute Actuator Transverse Component at P (Vector method) ~ Calculations_.pdf' | relative_url }}" style="width:100%;height:600px;border:1px solid #ddd;" title="Actuator calculation PDF"></iframe>
 </div>
 
+ ---
+
+## Maximum deflection in the beam
+Model: beam (fixed at x = 0), with
+    - tip vertical point load W at x = L,
+    - transverse point load F⊥ at x = a
+
+You can view the detailed calculation (PDF) here:
+
+<a href="{{ '/assets/Maximum Deflection Calculations.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Compute Actuator Transverse Component at P (Vector method) — Calculations (PDF)</a>
+
+
+
+
  
 
 

@@ -69,6 +69,12 @@ You can view the detailed calculation (PDF) here:
 
 <a href="{{ '/assets/Section properties Calculations.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Section properties Calculations (PDF)</a>
 
+- The chosen tube 209 mm & 2 mm wall:
+    - I ≈ 6.967 x 10^-6 m^4 (meets required),
+    - tip deflection ≈ 23.96 mm, which is just under the 24.0 mm (2% of L) limit,
+    - beam mass ≈ 12.25 kg
+- This is a practicial, mass-efficient choice
+
 ---
 
 

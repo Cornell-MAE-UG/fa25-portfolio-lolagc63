@@ -7,7 +7,8 @@ image: /assets/images/linear_act.png
 ---
 
 **Project goal:** 
- Choose a beam design (cross-section, material) such that uts vertical deflection is below 2% of its length and is the most mass-efficient possible
+ Choose a beam design (cross-section, material) such that its vertical deflection is below 2% of its length and is the most mass-efficient possible.
+
 
  ---
 
@@ -16,10 +17,18 @@ image: /assets/images/linear_act.png
 2. Beam modeled as an Euler-Bernoulli beam
 3. Boundary condition: fixed at pivot (assumed stiff enough to provide rotational restraint)
 4. Loads included (transverse components only):
-    - Tip vertical load W = 31, 626 N 
-    - Actuator Peak Thrust (F_a): 35,810 N
-5. Material: steel, E = 200GPa, ρ=7850 kg/m3
+    - Tip vertical load W = 31, 630 N 
+    - Actuator Peak Thrust (F_a): 35,810 N; only its component perpendicular to the beam at the actuator point P is used for bending
+5. Material: steel, E = 200GPa, ρ = 7850 kg/m^3
 6. Allowable tip vertical deflection = 2% of L = 0.02L
 
  ---
+
+ ## Preliminary geometry/kinematics
+
+ ---
+ 
+
+
+
 

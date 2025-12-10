@@ -25,8 +25,18 @@ image: /assets/images/linear_act.png
  ---
 
  ## Preliminary geometry/kinematics
+ 1. Beam angle at top position:
+    θ = arcsin(y_tip/L​​) = arcsin(0.50/1.20​) = 0.4297754313 rad = 24.624∘
+ 2. Coordinates:
+    - Tip T = (Lcosθ,Lsinθ)
+    - Actuator-to-beam pin (attachment) P = (acosθ,asinθ) with a = 1.00 m
+    - P ≈ (0.90905934 m,0.41666667 m)
+ 3. Actuator ground point used: G_2 = (1.00,0)m
 
  ---
+
+## Calculating actuator transverse component at P
+
  
 
 

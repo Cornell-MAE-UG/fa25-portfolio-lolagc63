@@ -13,6 +13,9 @@ image: /assets/images/linear_act.png
  ---
 
 ## Overview / assumptions
+
+![Free body diagram]({{ '/assets/images/fbd_lin_act.jpeg' | relative_url }}){: .block-image}
+
 1. Geometry used: selected configuration L = 1.20m, tip height y_tip = 0.50m
 2. Beam modeled as an Euler-Bernoulli beam
 3. Boundary condition: fixed at pivot (assumed stiff enough to provide rotational restraint)

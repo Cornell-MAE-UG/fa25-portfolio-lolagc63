@@ -6,6 +6,11 @@ technologies: [Google Sheets]
 image: /assets/images/linear_act.png
 ---
 
+**Project goal:** 
+ Choose a beam design (cross-section, material) such that uts vertical deflection is below 2% of its length and is the most mass-efficient possible
+
+ ---
+
 ## Overview / assumptions
 1. Geometry used: selected configuration L = 1.20m, tip height y_tip = 0.50m
 2. Beam modeled as an Euler-Bernoulli beam
@@ -16,4 +21,5 @@ image: /assets/images/linear_act.png
 5. Material: steel, E = 200GPa, ρ=7850 kg/m3
 6. Allowable tip vertical deflection = 2% of L = 0.02L
 
+ ---
 

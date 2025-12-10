@@ -77,6 +77,22 @@ You can view the detailed calculation (PDF) here:
 
 ---
 
+## Final Beam Design
+
+**Section properties Calculations:** Hollow circular steel tube -- 209 mm Outer Diamater x 2.0 mm wall, length 1.20 m, materials steel (E = 200 Gpa,ρ = 7850 kg/m^3 )
+
+**Key Numerical Summary:**
+- Beam length: L = 1.20 m
+- Tip height: Y_tip = 0.50 m (beam angle θ=24.624∘)
+- Tip load used: W = 31,630 N
+- Actuator peak thrust: F_a = 35,810 N & F⊥ ≈ 34,986 N
+- Required second moment: I_req ≈ 6.95 x 10^-6m^4
+- Chosen section: 209 mm Outer diamater x 2.0 mm wall (steel) & I ≈ 6.967 x 10^-6 m^4
+- Resulting tip deflection: δ_tip ≈ 23.96 mm (which is 1.9967% of L), within 2%
+- Beam mass ≈ 12.25 kg.
+
+---
+
 
 
 

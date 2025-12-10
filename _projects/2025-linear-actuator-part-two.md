@@ -24,7 +24,7 @@ image: /assets/images/linear_act.png
 
  ---
 
-## Preliminary geometry/kinematics
+## Preliminary geometry / kinematics
 1. Beam angle at top position:
     θ = arcsin(y_tip/L​​) = arcsin(0.50/1.20​) = 0.4297754313 rad = 24.624∘
 2. Coordinates:
@@ -36,6 +36,14 @@ image: /assets/images/linear_act.png
  ---
 
 ## Calculating actuator transverse component at P
+
+You can view the detailed calculation (PDF) here:
+
+<a href="{{ '/assets/Compute Actuator Transverse Component at P (Vector method) ~ Calculations_.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Compute Actuator Transverse Component at P (Vector method) — Calculations (PDF)</a>
+
+<div style="margin: 1rem 0;">
+    <iframe src="{{ '/assets/Compute Actuator Transverse Component at P (Vector method) ~ Calculations_.pdf' | relative_url }}" style="width:100%;height:600px;border:1px solid #ddd;" title="Actuator calculation PDF"></iframe>
+</div>
 
  
 
